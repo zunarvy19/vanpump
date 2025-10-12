@@ -6,17 +6,17 @@ const testimonials = [
     {
         quote: "Pengerjaannya sangat cepat dan rapi. Pompa air saya yang tadinya mati total sekarang sudah normal kembali. Sangat direkomendasikan!",
         name: "Andi Wijaya",
-        role: "Pemilik Rumah, Depok",
+        role: "Pemilik Rumah",
     },
     {
         quote: "Timnya profesional dan ramah. Proses pengeboran sumur berjalan lancar dan hasilnya memuaskan, airnya jernih. Terima kasih banyak!",
         name: "Siti Aminah",
-        role: "Pengusaha Kost, Tangerang",
+        role: "Pengusaha Kost",
     },
     {
         quote: "Layanannya memuaskan, ada garansi jadi lebih tenang. Responnya juga cepat saat dihubungi untuk konsultasi. Terbaik!",
         name: "Budi Santoso",
-        role: "Manajer Restoran, Jakarta",
+        role: "Manajer Restoran",
     },
 ];
 

@@ -8,7 +8,7 @@ export default function Hero() {
     <section className="relative bg-gradient-to-b from-[#00B4D8] to-[#0077B6] text-white text-center py-28 md:py-40 px-4 overflow-hidden">
       <div className="absolute inset-0 bg-[url('/hero-bg-pattern.svg')] opacity-10"></div>
       
-      <div className="relative max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between z-10">
+      <div className="relative max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between z-10 ">
         <motion.div
           initial={{ opacity: 0, x: -50 }}
           animate={{ opacity: 1, x: 0 }}
