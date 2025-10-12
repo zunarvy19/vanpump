@@ -8,7 +8,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Zunaidi Pompa | Service Pompa Air & Pengeboran Sumur Profesional",
+  title: "Dummy Pompa | Service Pompa Air & Pengeboran Sumur Profesional",
   description:
     "Jasa service pompa air dan pengeboran sumur profesional. Layanan cepat, bergaransi, dan didukung teknisi berpengalaman di area Jabodetabek.",
   keywords: [
@@ -19,14 +19,14 @@ export const metadata: Metadata = {
     "perbaikan pompa air",
   ],
   openGraph: {
-    title: "Zunaidi Pompa | Service Pompa Air & Pengeboran Sumur Profesional",
+    title: "Dummy Pompa | Service Pompa Air & Pengeboran Sumur Profesional",
     description: "Layanan cepat, bergaransi, dan didukung teknisi berpengalaman.",
-    url: "https://dummypompa.vercel.app", // Ganti dengan URL Anda
-    siteName: "Zunaidi Pompa",
+    url: "https://dummypompa.vercel.app", 
+    siteName: "Dummy Pompa",
     locale: "id_ID",
     type: "website",
   },
-  alternates: { canonical: "https://dummypompa.vercel.app" }, // Ganti dengan URL Anda
+  alternates: { canonical: "https://dummypompa.vercel.app" }, 
 };
 
 export default function RootLayout({

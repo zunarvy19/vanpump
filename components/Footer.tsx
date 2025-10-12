@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="container mx-auto grid md:grid-cols-3 gap-10 text-center md:text-left">
 
         <div>
-          <h3 className="font-bold text-xl mb-4">Zunaidi Pompa</h3>
+          <h3 className="font-bold text-xl mb-4">Dummy Pompa</h3>
           <p className="text-sky-200">
             Penyedia jasa service pompa air dan pengeboran sumur terpercaya dengan teknisi ahli dan garansi di setiap pekerjaan.
           </p>
