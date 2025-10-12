@@ -9,6 +9,9 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Dummy Pompa | Service Pompa Air & Pengeboran Sumur Profesional",
+  icons: {
+    icon: "/favicon.ico",
+  },
   description:
     "Jasa service pompa air dan pengeboran sumur profesional. Layanan cepat, bergaransi, dan didukung teknisi berpengalaman di area Jabodetabek.",
   keywords: [
