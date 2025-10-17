@@ -15,7 +15,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white/80 backdrop-blur-lg shadow-sm">
       <div className="container mx-auto flex justify-between items-center p-4">
         <Link href="/" className="text-xl font-bold text-[#023E8A]">
-          Dummy Pompa
+          PRabu Teknik
         </Link>
         <nav className="hidden md:flex gap-8 items-center"> 
           <Link href="#layanan" className={navLinkClasses}>
@@ -34,7 +34,7 @@ export default function Header() {
         <a
           href="https://wa.me/6289676570369"
           className="bg-[#0077B6] text-white px-4 py-2 rounded-full flex items-center gap-2
-                     hover:bg-[#023E8A] transition-colors shadow-md hover:shadow-lg transform hover:scale-105"
+                    hover:bg-[#023E8A] transition-colors shadow-md hover:shadow-lg transform hover:scale-105"
         >
           <Phone size={16} />
           <span className="font-semibold">Hubungi Kami</span>

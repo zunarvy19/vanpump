@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="container mx-auto grid md:grid-cols-3 gap-10 text-center md:text-left">
 
         <div>
-          <h3 className="font-bold text-xl mb-4">Dummy Pompa</h3>
+          <h3 className="font-bold text-xl mb-4">PRabu Teknik</h3>
           <p className="text-sky-200">
             Penyedia jasa service pompa air dan pengeboran sumur terpercaya dengan teknisi ahli dan garansi di setiap pekerjaan.
           </p>
@@ -33,7 +33,7 @@ export default function Footer() {
       </div>
       <div className="container mx-auto text-center border-t border-sky-800 mt-12 pt-6">
         <p className="text-sm text-sky-300">
-          © {new Date().getFullYear()} Dummy Pompa. All rights reserved.
+          © {new Date().getFullYear()} PRabu Teknik. All rights reserved.
         </p>
         <p className="text-sm text-sky-300">
           Managed by <a href="https://instagram.com/zunarvy" className="hover:text-sky-300 transition-colors font-semibold"><span className="text-white">Zunarvy</span></a>
