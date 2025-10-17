@@ -22,7 +22,7 @@ export default function Hero() {
             Kami melayani perbaikan pompa air, instalasi baru, serta pengeboran sumur dengan teknisi ahli dan bergaransi.
           </p>
           <a
-            href="https://wa.me/6289676570369" 
+            href="https://wa.me/628176426066" 
             className="inline-flex items-center justify-center gap-2 bg-white text-[#0077B6] font-bold text-lg
                       py-3 px-8 rounded-full shadow-2xl transform hover:scale-105 transition-transform duration-300"
           >
