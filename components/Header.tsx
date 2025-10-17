@@ -32,7 +32,7 @@ export default function Header() {
           </Link>
         </nav>
         <a
-          href="https://wa.me/6289676570369"
+          href="https://wa.me/628176426066"
           className="bg-[#0077B6] text-white px-4 py-2 rounded-full flex items-center gap-2
                     hover:bg-[#023E8A] transition-colors shadow-md hover:shadow-lg transform hover:scale-105"
         >

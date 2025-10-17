@@ -12,7 +12,7 @@ export default function ContactForm() {
     const telp = (form[1] as HTMLInputElement).value;
     const pesan = (form[2] as HTMLTextAreaElement).value;
 
-    const nomorTujuan = "6289676570369";
+    const nomorTujuan = "628176426066";
     const text = `Nama: ${nama}%0ANo HP: ${telp}%0APesan atau Kendala: ${pesan}`;
     window.open(`https://wa.me/${nomorTujuan}?text=${text}`, "_blank");
 

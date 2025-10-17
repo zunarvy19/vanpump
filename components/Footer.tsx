@@ -27,7 +27,7 @@ export default function Footer() {
           <p className="text-sky-200">Tangerang, Banten, Indonesia</p>
           <p className="text-sky-200">
             WhatsApp: 
-            <a href="https://wa.me/6281234567890" className="hover:text-sky-300 transition-colors font-semibold"> +62 812-3456-7890</a>
+            <a href="https://wa.me/628176426066" className="hover:text-sky-300 transition-colors font-semibold"> +62 812-3456-7890</a>
           </p>
         </div>
       </div>
