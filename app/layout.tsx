@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "PRabu Teknik | Service Pompa Air & Pengeboran Sumur Profesional",
     description: "Jasa service pompa air dan pengeboran sumur profesional. Layanan cepat, bergaransi, dan teknisi panggilan di area Jabodetabek.",
-    url: "https://vanpump.vercel.app", 
+    url: "https://prabuteknik.zvy.my.id", 
     siteName: "PRabu Teknik",
     images: [
       {
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     description: "Jasa service pompa air dan pengeboran sumur profesional bergaransi di area Jabodetabek.",
     images: ["/plumbing-hero.jpg"],
   },
-  alternates: { canonical: "https://vanpump.vercel.app" }, 
+  alternates: { canonical: "https://prabuteknik.zvy.my.id" }, 
 };
 
 
@@ -85,9 +85,9 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
               name: "PRabu Teknik",
-              image: "https://vanpump.vercel.app/prabulogo.png",
+              image: "https://prabuteknik.zvy.my.id/prabulogo.png",
               description: "Jasa service pompa air, sanyo, jet pump dan pengeboran sumur profesional. Layanan cepat, bergaransi, dan teknisi panggilan di area Jabodetabek.",
-              url: "https://vanpump.vercel.app",
+              url: "https://prabuteknik.zvy.my.id",
               telephone: "+628176426066",
               address: {
                 "@type": "PostalAddress",

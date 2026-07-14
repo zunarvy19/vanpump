@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://vanpump.vercel.app/sitemap.xml',
+    sitemap: 'https://prabuteknik.zvy.my.id/sitemap.xml',
   };
 }

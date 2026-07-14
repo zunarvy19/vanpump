@@ -5,7 +5,7 @@ export const dynamic = 'force-static';
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     {
-      url: 'https://vanpump.vercel.app',
+      url: 'https://prabuteknik.zvy.my.id',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 1,
