@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  prabuteknik:
+    build: .
+    container_name: prabuteknik
+    restart: unless-stopped
+    networks:
+      - shared_net
+
+networks:
+  shared_net:
+    external: true
