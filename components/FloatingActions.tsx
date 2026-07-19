@@ -27,7 +27,7 @@ export default function FloatingActions() {
   href="#"
   onClick={(e) => {
     e.preventDefault();
-
+    console.log(window.gtag);
     window.gtag?.("event", "conversion", {
       send_to: "AW-18321962739/agp_CPWv9dlcEPPty6BE",
       event_callback: () => {
