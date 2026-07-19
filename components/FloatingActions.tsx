@@ -29,7 +29,7 @@ export default function FloatingActions() {
     e.preventDefault();
     console.log(window.gtag);
     window.gtag?.("event", "conversion", {
-      send_to: "AW-18321962739/agp_CPWv9dlcEPPty6BE",
+      send_to: "AW-18321962739/agp_CPWv9dIcEPPty6BE",
       event_callback: () => {
         window.open(
           `https://wa.me/${phoneNumber}?text=${encodeURIComponent(

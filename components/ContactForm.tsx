@@ -14,6 +14,9 @@ export default function ContactForm() {
 
     const nomorTujuan = "628176426066";
     const text = `Nama: ${nama}%0ANo HP: ${telp}%0APesan atau Kendala: ${pesan}`;
+    window.gtag?.("event", "conversion", {
+      send_to: "AW-18321962739/agp_CPWv9dIcEPPty6BE",
+    });
     window.open(`https://wa.me/${nomorTujuan}?text=${text}`, "_blank");
 
     setStatus("Pesan Anda diarahkan ke WhatsApp! ✅");

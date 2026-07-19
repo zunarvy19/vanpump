@@ -23,6 +23,11 @@ export default function Hero() {
           </p>
           <a
             href="https://wa.me/628176426066" 
+            onClick={() => {
+              window.gtag?.("event", "conversion", {
+                send_to: "AW-18321962739/agp_CPWv9dIcEPPty6BE",
+              });
+            }}
             className="inline-flex items-center justify-center gap-2 bg-white text-[#0077B6] font-bold text-lg
                       py-3 px-8 rounded-full shadow-2xl transform hover:scale-105 transition-transform duration-300"
           >

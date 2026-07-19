@@ -27,7 +27,7 @@ export default function Footer() {
           <p className="text-sky-200">Tangerang, Banten, Indonesia</p>
           <p className="text-sky-200">
             WhatsApp: 
-            <a href="https://wa.me/628176426066" className="hover:text-sky-300 transition-colors font-semibold">+62 817-6426-066</a>
+            <a href="https://wa.me/628176426066" onClick={() => window.gtag?.("event", "conversion", { send_to: "AW-18321962739/agp_CPWv9dIcEPPty6BE" })} className="hover:text-sky-300 transition-colors font-semibold">+62 817-6426-066</a>
           </p>
         </div>
       </div>

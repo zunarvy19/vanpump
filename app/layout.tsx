@@ -70,6 +70,7 @@ export default function RootLayout({
         {/* Google tag (gtag.js) */}
         <Script async src="https://www.googletagmanager.com/gtag/js?id=AW-18321962739"></Script>
         <Script
+          id="google-tag"
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
